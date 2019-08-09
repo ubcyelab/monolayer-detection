@@ -1,5 +1,5 @@
 # monolayer-detection
-This is the code for detecting monolyers of 2D materials.
+This is the code for detecting monolayers of 2D materials.
 
 ### Documentation
 https://docs.google.com/document/d/1l5941oLhWwG6N9EesWfQdNvmURnbV3JmRXnTxvgXeCg/edit?usp=sharing
