@@ -137,11 +137,6 @@ def monoDetect(backpath,filepath,ResFolderPath,size,loc,nowStr,f):
         area =  stats[1,4]
         if area < 110:
            mask=np.zeros((950,950))
-           
-#    try:
-#         mask = remove_small_objects(mask.astype(np.int),200)
-#    except UserWarning:
-#        pass
     
     # label
     res = label(mask,imSample)
